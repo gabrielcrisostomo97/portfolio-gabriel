@@ -8,7 +8,11 @@ Aqui apresento minhas habilidades, projetos e formas de contato.
 ---
 
 ## 🖥️ Preview
-![Portfolio Screenshot](https://raw.githubusercontent.com/SEU_USUARIO/portfolio-gabriel/main/public/preview.png)
+![Portfolio Screenshot](https://raw.githubusercontent.com/gabrielcrisostomo97/portfolio-gabriel/main/public/preview.png)
+
+> Mockup estilizado do portfólio:
+>  
+> ![Mockup](https://raw.githubusercontent.com/gabrielcrisostomo97/portfolio-gabriel/main/public/mockup.png)
 
 ---
 
