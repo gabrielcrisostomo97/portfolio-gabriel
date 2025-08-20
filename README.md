@@ -3,7 +3,7 @@
 Meu portfólio pessoal desenvolvido em **React + Vite + TailwindCSS + Framer Motion**.  
 Aqui apresento minhas habilidades, projetos e formas de contato.  
 
-🔗 **Acesse online:** [portfolio-gabriel.vercel.app](https://portfolio-gabriel.vercel.app/)  
+🔗 **Acesse online:** [portfolio-gabriel.vercel.app](https://portfolio-gabriel-f6jdp9b0i-gabriel-s-projects-c2363bd4.vercel.app)  
 
 ---
 
