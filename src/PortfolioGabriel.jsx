@@ -40,7 +40,7 @@ function App() {
           ], []);
 
           const skills = [
-          "HTML5", "CSS3", "JavaScript (básico)", "Git", "GitHub", "Responsividade", "Acessibilidade"
+          "HTML5", "CSS3", "JavaScript (intermediário)", "Git", "GitHub", "Responsividade", "Acessibilidade"
           ];
 
           return (
