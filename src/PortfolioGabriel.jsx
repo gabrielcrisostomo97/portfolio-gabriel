@@ -1,6 +1,17 @@
+import React from "react";
 import { useMemo } from "react";
 import { motion } from "framer-motion";
 import { Github, Linkedin, Mail, ExternalLink, Code2, Briefcase } from "lucide-react";
+
+
+function App() {
+  return (
+    <div>
+      <h1> Portfólio Gabriel </h1>
+    </div>
+  );
+}
+
 
 export default function PortfolioGabriel() {
   const projects = useMemo(() => [
