@@ -45,8 +45,8 @@ function App() {
 
           return (
           <div className="min-h-screen bg-neutral-950 text-neutral-100">
-            <header >
-              className="sticky top-0 z-50 backdrop-blur supports-[backdrop-filter]:bg-neutral-950/70 border-b border-neutral-800"
+            <header 
+              className="sticky top-0 z-50 backdrop-blur supports-[backdrop-filter]:bg-neutral-950/70 border-b border-neutral-800" >
         <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
           <span className="font-bold text-lg tracking-wide">Gabriel Crisostomo</span>
 
